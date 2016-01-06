@@ -8,6 +8,7 @@ import com.go3.cpy.go.R;
 
 public class MainActivity extends AppCompatActivity {
 
+    // 測試測試元兒～的進度
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
